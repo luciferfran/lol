@@ -7,3 +7,5 @@ Estos son cambios en el readme
 ---
 Pues yya tenemo todo
 @mas vale
+
+-- Ahora lo editamos desde el curro
